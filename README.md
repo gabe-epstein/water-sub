@@ -1,4 +1,5 @@
-# Conda environment with environment.yml
+# Proof of Concept for Binder Hosted Educational Notebook
+# Perform simple calculation of H2O subduction
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabe-epstein/water-sub/HEAD?filepath=water-sub.ipynb)
 
