@@ -2,5 +2,6 @@ name: water-sub
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python
   - matplotlib
+  - numpy
